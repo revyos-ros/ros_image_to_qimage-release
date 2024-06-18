@@ -1,3 +1,26 @@
+## ros_image_to_qimage (jazzy) - 0.4.1-5
+
+The packages in the `ros_image_to_qimage` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ros_image_to_qimage --override-release-repository-push-url git@github.com:revyos-ros/ros_image_to_qimage-release` on `Tue, 18 Jun 2024 02:32:54 -0000`
+
+The `ros_image_to_qimage` package was released.
+
+Version of package(s) in repository `ros_image_to_qimage`:
+
+- upstream repository: https://github.com/ros-sports/ros_image_to_qimage.git
+- release repository: https://github.com/revyos-ros/ros_image_to_qimage-release.git
+- rosdistro version: `0.4.1-4`
+- old version: `0.4.1-4`
+- new version: `0.4.1-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ros_image_to_qimage (rolling) - 0.4.1-1
 
 The packages in the `ros_image_to_qimage` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling ros_image_to_qimage` on `Thu, 29 Sep 2022 12:49:56 -0000`
